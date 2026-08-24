@@ -35,6 +35,7 @@ html {
   flex-direction: column; 
   width: 100%;
   align-items: center;
+  max-width: 124rem;
 }
 
 .containerHorizontal {
@@ -42,6 +43,7 @@ html {
   flex-direction: row;
   width: 100%;
   justify-content: center;
+  max-width: 124rem;
 }
 
 h1 {
